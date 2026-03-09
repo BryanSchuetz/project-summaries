@@ -1,0 +1,32 @@
+---
+title: Jordan—Technical Assistance to European Union Support to Green Economy
+summary: The EU's Green Economy program in Jordan supports the country’s green transition
+  by promoting climate resilience, energy efficiency, and environmental sustainability.
+start_year: '2024'
+end_year: '2027'
+client: European Union
+solutions:
+- Climate Adaptation and Mitigation
+- Climate and Environment
+regions: Middle East and North Africa
+country: Jordan
+layout_mode: ''
+featured_image: "/uploads/Jordan%20-%20Green%20economy.jpg"
+---
+
+Jordan faces challenges in advancing its green economy, including economic pressures, high unemployment, and environmental sustainability needs. Its partnership with the European Union (EU) has led to successful green initiatives, notably in energy, waste management, and water provision, aligned with the European Green Deal and the New Agenda for the Mediterranean. Jordan has committed to reducing emissions by 31 percent by 2030, in line with strategic frameworks like Vision 2025 and the National Green Growth Action Plan (2021-2025).
+
+The EU's Green Economy program in Jordan supports the country’s green transition by promoting climate resilience, energy efficiency, and environmental sustainability. It focuses on building a green, inclusive economy by aligning with Jordan’s Green Growth Strategy, targeting sectors such as green energy, water, agriculture, and the circular economy.
+
+This project, a key component of the Green Economy Programme, strengthens and complements these efforts by offering targeted support in six critical areas. It focuses on coordinated planning and capacity building within the Ministry of Environment and the Ministry of Planning and International Cooperation, alongside engagement with other relevant ministries such as the ministries of Energy and Mineral Resources and Water and Irrigation. By enhancing cooperation across these ministries, promoting inclusive policy dialogue, and fostering public-private partnerships, the project plays a crucial role in advancing Jordan’s green growth initiatives.
+
+![Jordan - Green economy.jpg](/uploads/Jordan%20-%20Green%20economy.jpg)
+
+## Select Activities
+
+* Deliver customized training for government ministries, private sector entities, and civil society to enhance capacity building and institutional strengthening for coordination and the implementation of green growth strategies.
+* Facilitate ongoing policy dialogue and coordination with stakeholders to ensure transparency, inclusivity, and consensus-building in the national green transition process.
+* Assist in establishing budget support plans, preparing related reports, and supporting the monitoring of the program’s progress.
+* Develop a flexible, demand-driven work plan that meets partners' needs and helps achieve the sector budget support components.
+* Support investment facilitation for green growth projects by preparing project pipelines, coordinating actions across ministries, and fostering collaboration with donors to drive sector development.
+* Promote private sector mobilization for green initiatives through awareness campaigns, knowledge sharing, and creating business opportunities in green growth sectors.

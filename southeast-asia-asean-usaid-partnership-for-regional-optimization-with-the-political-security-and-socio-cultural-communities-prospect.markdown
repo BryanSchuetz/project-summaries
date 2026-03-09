@@ -1,0 +1,40 @@
+---
+title: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the Political-Security
+  and Socio-Cultural Communities (PROSPECT)
+summary: PROSPECT helped the Association of Southeast Asian Nations (ASEAN) define
+  joint measures to address transnational challenges, strengthened ASEAN’s people-to-people
+  engagement, and elevated rights and opportunities for women and other vulnerable
+  groups.
+start_year: '2018'
+end_year: '2024'
+client: U.S. Government
+solutions:
+- Economic Growth
+- Governance
+- Peace and Stability
+- Health Security
+regions: Asia and the Pacific
+country: Regional
+layout_mode: ''
+featured_image: "/uploads/ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg"
+---
+
+ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT built upon the achievements of its predecessor project, [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), and continued to support ASEAN in addressing transnational challenges, promoting transparent and effective governance, and elevating the rights and opportunities for women and other vulnerable groups. 
+
+![ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg](/uploads/ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg)`ASEAN Youth Video Contest participants from ASEAN Member States.`
+
+### Sample Activities
+
+* Engage diverse stakeholders—including governments, civil society organizations, academic institutions, and other donor projects—to participate in issue-based coalitions.
+* Build ASEAN's and member states’ capacity to resolve regional and global challenges.
+* Support ASEAN and member states in advancing regional integration to enhance the rule of law and uphold human rights.
+
+### Select Results
+
+* Provided technical expertise to the ASEAN Commission on the Promotion and Protection of the Rights of Women and Children to develop and launch regional guidelines to address the needs of victims of trafficking and a complementary model implementation toolkit for practitioners working across all 10 ASEAN countries.
+* Co-sponsored the 6th ASEAN Intergovernmental Commission on Human Rights (AICHR) Youth Debate on “Advancing Partnership for Sustainability” in Bangkok, Thailand, an annual debate competition to encourage youth from across ASEAN to engage with each other and their ASEAN representatives on human rights issues.
+* Supported the ASEAN University Network for Human Rights Education to launch its study, “Remapping and Analysis of Human Rights and Peace Education in ASEAN/Southeast Asia” among senior education officials, AICHR, and other human rights representatives and identify opportunities to strengthen human rights and peace education across universities in the ASEAN region.
+* Provided technical expertise and management to ASEAN counter-terrorism officials to develop and launch the Bali Work Plan to Prevent and Counter the Rise of Radicalization and Violent Extremism (2019–2025), laying out the framework and a menu of regional interventions to stem the rise of radicalism and violence in ASEAN.
+* Drawing upon the Practitioners’ Model Toolkit (2019), developed and piloted a Regional Training Curriculum on Victim Identification, Protection, and Return and Reintegration, resulting in more than 120 practitioners being better prepared to identify and assist victims of trafficking of persons.
+* Led the research and produced a Synthesis Report on Opportunities within ASEAN for Advancing a Multisectoral Strategy to Address Human Trafficking and Forced Labor in the Fishing Industry and held consultations with ASEAN officials and other regional stakeholders to discuss findings and recommendations.
+* Supported the launch of ASEAN’s Regional Study on Women, Peace, and Security. Both landmark efforts provide ASEAN a base of knowledge and a pathway forward toward enhancing women’s civic participation and leadership.
