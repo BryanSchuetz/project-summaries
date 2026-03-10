@@ -5,7 +5,7 @@ summary: The Promoting Integrity in the Public Sector Activity (Pro-Integrity) p
   institutional level, at the local government level, and in issues related to Ukraine’s
   recovery and reconstruction
 start_year: '2023'
-end_year: '2027'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Governance
