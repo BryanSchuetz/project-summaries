@@ -5,7 +5,7 @@ summary: The Integrated Pharmaceutical and Supply Chain Technical Assistance Act
   and affordable health commodities in Kenya by supporting the development of an increasingly
   resilient and mature supply chain system and pharmaceutical regulatory services.
 start_year: '2024'
-end_year: '2029'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Global Health

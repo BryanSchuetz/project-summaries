@@ -6,7 +6,7 @@ summary: The Critical Infrastructure Digitalization and Resilience program assis
   courses of action to improve the cybersecurity of critical infrastructure and key
   institutions.
 start_year: '2021'
-end_year: '2026'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Digital Development

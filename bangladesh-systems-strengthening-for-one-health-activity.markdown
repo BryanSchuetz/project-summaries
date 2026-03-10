@@ -5,7 +5,7 @@ summary: The Bangladesh Systems Strengthening for One Health Activity is an init
   and endemic zoonotic diseases, while also addressing the challenge of antimicrobial
   resistance.
 start_year: '2024'
-end_year: '2029'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Global Health

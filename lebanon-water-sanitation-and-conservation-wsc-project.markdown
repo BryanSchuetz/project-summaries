@@ -5,7 +5,7 @@ summary: WSC is increasing the volumes of wastewater treated, reducing the pollu
   and facilitating partnerships between public water utilities, municipalities, the
   private sector, civil society organizations, and citizen groups in Lebanon.
 start_year: '2021'
-end_year: '2026'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Water Security, Sanitation and Hygiene

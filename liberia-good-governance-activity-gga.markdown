@@ -5,7 +5,7 @@ summary: The Local Empowerment for Accountability and Decentralization Activity 
   and commissions to formulate and administer sound tax policies, improve budget transparency,
   deepen decentralization, and improve service delivery at the sub-national level.
 start_year: '2023'
-end_year: '2028'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Governance

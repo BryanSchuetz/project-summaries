@@ -13,7 +13,6 @@ solutions:
 regions: Europe
 country: Ukraine
 layout_mode: ''
-featured_image: "/uploads/pro%20integrity.jpg"
 ---
 
 Nine years on from the Revolution of Dignity and one and half years since Russia’s full-scale invasion, corruption continues to be an impediment for Ukraine to realize its full potential. Despite many successes since the Revolution, including establishing a modern specialized anti-corruption architecture, corruption problems continue to pervade the government and economy, undermining public confidence in governance institutions, hindering democratic consolidation, and posing challenges for Ukraine’s ability to recover and rebuild. 

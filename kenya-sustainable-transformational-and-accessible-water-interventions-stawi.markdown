@@ -5,7 +5,7 @@ summary: The Kenya Sustainable Transformational and Accessible Water Interventio
   opportunities through investments in water security in Kenya’s arid and semi-arid
   lands.
 start_year: '2023'
-end_year: '2028'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Governance

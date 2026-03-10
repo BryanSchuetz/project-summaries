@@ -5,7 +5,7 @@ summary: The Municipal Integrity activity works with Kosovo's central government
   reform in public procurement, with a renewed emphasis on budget planning, contract
   management, audit, integrity, anti-corruption, and private sector engagement.
 start_year: '2022'
-end_year: '2027'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Governance

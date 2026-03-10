@@ -4,7 +4,7 @@ summary: The Kenya Primary Education Evaluation and Assessment Program strengthe
   accountability and resilience across Kenya’s Ministry of Education and relevant
   semi-autonomous government agencies.
 start_year: '2024'
-end_year: '2028'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Education

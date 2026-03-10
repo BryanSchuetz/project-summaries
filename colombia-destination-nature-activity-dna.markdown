@@ -4,7 +4,7 @@ summary: The Destination Nature Activity conserves biodiversity and reduces gree
   gas emissions by supporting rural communities to make a living from sustainable
   nature tourism.
 start_year: '2022'
-end_year: '2027'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Climate and Environment

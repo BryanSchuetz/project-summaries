@@ -8,7 +8,7 @@ summary: USAID Eau partners with multiple stakeholders—water utilities in larg
   target areas, gain access to finance, and better manage water resources for resilient,
   sustained service delivery.
 start_year: '2017'
-end_year: '2029'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Climate and Environment

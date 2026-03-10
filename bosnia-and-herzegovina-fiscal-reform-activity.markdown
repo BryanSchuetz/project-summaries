@@ -5,7 +5,7 @@ summary: The Fiscal Reform Activity in Bosnia and Herzegovina builds on recent f
   and aligns the country’s regulatory framework with changes in the European and international
   tax environment.
 start_year: '2023'
-end_year: '2028'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Governance

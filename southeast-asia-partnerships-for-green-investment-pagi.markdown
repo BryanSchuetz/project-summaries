@@ -4,7 +4,7 @@ summary: The USAID Partnerships for Green Investment program employs nature-base
   solutions to achieve greater emissions reduction, climate resilience, biodiversity
   protection, inclusiveness, and benefit sharing across Southeast Asia.
 start_year: '2024'
-end_year: '2029'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Climate and Environment

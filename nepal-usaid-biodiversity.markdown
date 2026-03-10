@@ -4,7 +4,7 @@ summary: Working in the Gandaki and Karnali river basins, this activity focuses 
   improving ecosystem health, advancing environmental and social safeguards, promoting
   climate resilience, and addressing environmental crime in Nepal.
 start_year: '2022'
-end_year: '2027'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Climate and Environment

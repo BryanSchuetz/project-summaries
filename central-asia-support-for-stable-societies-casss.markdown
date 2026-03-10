@@ -4,7 +4,7 @@ summary: The Central Asia Resilient Communities Activity assists hotspot communi
   in building resilient ecosystems that reduce risk and enhance protection against
   violent extremism.
 start_year: '2018'
-end_year: '2027'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Peace and Stability

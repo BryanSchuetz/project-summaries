@@ -4,7 +4,7 @@ title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ); Trade Cen
 summary: DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan
   to improve regional trade—which will grow exports and employment.
 start_year: '2016'
-end_year: '2026'
+end_year: '2025'
 client: U.S. Government
 solutions:
 - Economic Growth
